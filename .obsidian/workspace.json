@@ -171,15 +171,15 @@
   },
   "active": "dbd528af3abba5c1",
   "lastOpenFiles": [
-    "Typescript/Examples/Types from Arrays.md",
-    "Typescript/Examples/Overwrite inherited prop.md",
-    "Linux/Gnome/Extension Development.md",
-    "Typescript/Benefits of Typescript.md",
-    "Typescript/Examples/Tuple as argument in Typescript.md",
     "Typescript/Examples/Force a non-nullable value for children.md",
-    "Typescript/Examples/Example of different optional components being required.md",
-    "Typescript/Code Examples 1.md",
+    "Typescript/Examples/Overwrite inherited prop.md",
+    "Typescript/Examples/Tuple as argument in Typescript.md",
+    "Typescript/Examples/Types from Arrays.md",
     "VSCode/Extension Development.md",
-    "VSCode/Search and Replace.md"
+    "VSCode/Search and Replace.md",
+    "README.md",
+    "Typescript/Benefits of Typescript.md",
+    "Typescript/Examples/Conditional Props.md",
+    "Typescript/Examples/Example of different optional components being required.md"
   ]
 }

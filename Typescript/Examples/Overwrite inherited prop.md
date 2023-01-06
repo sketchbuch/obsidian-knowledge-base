@@ -1,3 +1,9 @@
+# Overwrite inherited prop
+
+How to override an inherited prop.
+
+---
+
 ```ts
 export interface InterfaceA {  
 	value: string  

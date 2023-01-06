@@ -1,3 +1,9 @@
+# Example of different optional components being required
+
+How to define interfaces so that some optional props are required and others are not
+
+---
+
 ```ts
 interface WithAriaLabel {  
 	  ariaLabel: string  

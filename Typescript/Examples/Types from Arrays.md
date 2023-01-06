@@ -1,3 +1,9 @@
+# Types from Arrays
+
+How to create types from arrays - use instea of enums.
+
+---
+
 ```ts
 export const fields = ['birthday', 'email', 'firstName', 'lastName', 'salutation'] as const  
 type FieldsTuple = typeof fields  

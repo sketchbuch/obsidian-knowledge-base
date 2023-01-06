@@ -1,3 +1,4 @@
 {
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "showInlineTitle": false
 }

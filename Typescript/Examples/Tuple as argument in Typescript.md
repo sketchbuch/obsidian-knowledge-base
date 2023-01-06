@@ -1,3 +1,9 @@
+# Tuple as argument in Typescript
+
+An example from [BytesDev](https://bytes.dev/archives/101)
+
+---
+
 ```ts
 function addTriple(inputs: number[]): number {  
 	return inputs[0] + inputs[1] + inputs[2];  

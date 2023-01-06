@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Examples/Conditional Props.md",
+                "file": "Typescript/Examples/Types from Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Examples/Conditional Props.md",
+                "file": "Typescript/Examples/Types from Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/Examples/Conditional Props.md",
+                "file": "Typescript/Examples/Types from Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/Examples/Conditional Props.md"
+                "file": "Typescript/Examples/Types from Arrays.md"
               }
             }
           }
@@ -171,15 +171,15 @@
   },
   "active": "dbd528af3abba5c1",
   "lastOpenFiles": [
-    "Typescript/Examples/Force a non-nullable value for children.md",
-    "Typescript/Examples/Overwrite inherited prop.md",
     "Typescript/Examples/Tuple as argument in Typescript.md",
+    "Typescript/Examples/Overwrite inherited prop.md",
+    "Typescript/Examples/Force a non-nullable value for children.md",
+    "Typescript/Examples/Example of different optional components being required.md",
+    "Typescript/Examples/Conditional Props.md",
     "Typescript/Examples/Types from Arrays.md",
     "VSCode/Extension Development.md",
     "VSCode/Search and Replace.md",
     "README.md",
-    "Typescript/Benefits of Typescript.md",
-    "Typescript/Examples/Conditional Props.md",
-    "Typescript/Examples/Example of different optional components being required.md"
+    "Typescript/Benefits of Typescript.md"
   ]
 }

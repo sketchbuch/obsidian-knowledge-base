@@ -1,6 +1,6 @@
 # Types from Arrays
 
-How to create types from arrays - use instea of enums.
+How to create types from arrays - use instead of enums.
 
 ---
 

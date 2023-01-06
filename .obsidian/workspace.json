@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSCode/Search and Replace.md",
+                "file": "VSCode/Extension Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/Search and Replace.md",
+                "file": "VSCode/Extension Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/Search and Replace.md",
+                "file": "VSCode/Extension Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/Search and Replace.md"
+                "file": "VSCode/Extension Development.md"
               }
             }
           }
@@ -159,6 +159,8 @@
   },
   "active": "6e430c327b00e9e0",
   "lastOpenFiles": [
+    "VSCode/Search and Replace.md",
+    "VSCode/Extension Development.md",
     "Linux/Gnome/Extension Development.md",
     "Typescript/Typescript.md",
     "README.md",

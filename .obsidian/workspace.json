@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70fcb76247ef57a8",
+        "id": "2e47abb52599a375",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1e98760af3f394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e824c3d10bbda8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Typescript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2f31821f1762548",
+            "id": "334ad880e470d639",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,31 +20,19 @@
             }
           },
           {
-            "id": "986fd334ce7880bf",
+            "id": "6e430c327b00e9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Ubuntu/Extensions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f71cfc6ebddd331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSCode/Extension Development.md",
+                "file": "VSCode/Search and Replace.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5
   },
   "right": {
     "id": "df65693192d7f020",
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/Extension Development.md",
+                "file": "VSCode/Search and Replace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/Extension Development.md",
+                "file": "VSCode/Search and Replace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/Extension Development.md"
+                "file": "VSCode/Search and Replace.md"
               }
             }
           }
@@ -193,12 +157,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2f71cfc6ebddd331",
+  "active": "6e430c327b00e9e0",
   "lastOpenFiles": [
-    "Linux/Ubuntu/Extensions.md",
     "Linux/Gnome/Extension Development.md",
     "Typescript/Typescript.md",
-    "Typescript/Typescript.md.md",
-    "README.md"
+    "README.md",
+    "Linux/Ubuntu/Extensions.md",
+    "Typescript/Typescript.md.md"
   ]
 }

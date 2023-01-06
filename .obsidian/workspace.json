@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2e47abb52599a375",
+        "id": "ab29c9b40c7bc45f",
         "type": "tabs",
         "children": [
           {
-            "id": "334ad880e470d639",
+            "id": "61cb2f1b12e3509a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Gnome/Extension Development.md",
+                "file": "Typescript/Examples/Overwrite inherited prop.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e430c327b00e9e0",
+            "id": "a7d0d1ad25edab3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSCode/Extension Development.md",
+                "file": "Typescript/Examples/Types from Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbd528af3abba5c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Examples/Conditional Props.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/Extension Development.md",
+                "file": "Typescript/Examples/Conditional Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/Extension Development.md",
+                "file": "Typescript/Examples/Conditional Props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/Extension Development.md"
+                "file": "Typescript/Examples/Conditional Props.md"
               }
             }
           }
@@ -157,14 +169,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6e430c327b00e9e0",
+  "active": "dbd528af3abba5c1",
   "lastOpenFiles": [
-    "VSCode/Search and Replace.md",
-    "VSCode/Extension Development.md",
+    "Typescript/Examples/Types from Arrays.md",
+    "Typescript/Examples/Overwrite inherited prop.md",
     "Linux/Gnome/Extension Development.md",
-    "Typescript/Typescript.md",
-    "README.md",
-    "Linux/Ubuntu/Extensions.md",
-    "Typescript/Typescript.md.md"
+    "Typescript/Benefits of Typescript.md",
+    "Typescript/Examples/Tuple as argument in Typescript.md",
+    "Typescript/Examples/Force a non-nullable value for children.md",
+    "Typescript/Examples/Example of different optional components being required.md",
+    "Typescript/Code Examples 1.md",
+    "VSCode/Extension Development.md",
+    "VSCode/Search and Replace.md"
   ]
 }

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab29c9b40c7bc45f",
+        "id": "ae5d80c03e6cb65c",
         "type": "tabs",
         "children": [
           {
-            "id": "61cb2f1b12e3509a",
+            "id": "299e5bac9984ef99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Examples/Overwrite inherited prop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d0d1ad25edab3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Examples/Types from Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbd528af3abba5c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typescript/Examples/Types from Arrays.md",
+                "file": "__Templates__/KB Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Examples/Types from Arrays.md",
+                "file": "__Templates__/KB Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/Examples/Types from Arrays.md",
+                "file": "__Templates__/KB Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/Examples/Types from Arrays.md"
+                "file": "__Templates__/KB Note.md"
               }
             }
           }
@@ -169,17 +144,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dbd528af3abba5c1",
+  "active": "9afad77a7b084929",
   "lastOpenFiles": [
-    "Typescript/Examples/Tuple as argument in Typescript.md",
-    "Typescript/Examples/Overwrite inherited prop.md",
-    "Typescript/Examples/Force a non-nullable value for children.md",
-    "Typescript/Examples/Example of different optional components being required.md",
-    "Typescript/Examples/Conditional Props.md",
-    "Typescript/Examples/Types from Arrays.md",
+    "Linux/Gnome/App Grid.md",
+    "README.md",
+    "__Templates__/KB Note.md",
     "VSCode/Extension Development.md",
     "VSCode/Search and Replace.md",
-    "README.md",
-    "Typescript/Benefits of Typescript.md"
+    "Linux/Ubuntu/Extensions.md",
+    "Linux/Gnome/Extension Development.md",
+    "Typescript/Examples/Types from Arrays.md",
+    "Typescript/Examples/Tuple as argument in Typescript.md",
+    "Typescript/Examples/Overwrite inherited prop.md"
   ]
 }

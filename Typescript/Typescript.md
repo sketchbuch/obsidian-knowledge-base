@@ -4,7 +4,7 @@ Information collected about [Typescript](https://www.typescriptlang.org/).
 
 ---
 
-## Examples
+## Information
 
 Collected information and code snippets.
 

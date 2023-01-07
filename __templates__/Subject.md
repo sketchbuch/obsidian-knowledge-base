@@ -4,7 +4,7 @@ Information collected about {{title}}.
 
 ---
 
-## Examples
+## Information
 
 Collected information and code snippets.
 

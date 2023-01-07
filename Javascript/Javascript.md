@@ -4,7 +4,7 @@ Information collected about [Javascript](https://developer.mozilla.org/en-US/doc
 
 ---
 
-## Examples
+## Information
 
 Collected information and code snippets.
 
@@ -14,7 +14,7 @@ Collected information and code snippets.
 
 -  [[Cheat sheets]]
 
-## External Sites
+## Sites
 
 - [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 

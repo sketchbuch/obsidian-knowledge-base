@@ -10,4 +10,4 @@ Although made in [Markdown](https://www.markdownguide.org/), this is an Obsidian
 
 ## Obsidian Settings
 
-This repo includes the .obsidian folder so that it is setup the way I want it, as well as incluing the plugins I use. Feel free to remove the .obsidian file before you use in Obsidian if you want different settings.
+This repo includes the .obsidian folder so that it is setup the way I want it, as well as including the plugins I use. Feel free to remove the .obsidian folder before you use in Obsidian if you want different settings.

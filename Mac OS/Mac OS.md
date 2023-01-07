@@ -1,10 +1,10 @@
 # Mac OS
 
-Information collected about Mac OS.
+Information collected about [Mac OS](https://support.apple.com/macos).
 
 ---
 
-## Information
+## Code
 
 Collected information and code snippets.
 

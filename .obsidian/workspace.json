@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "15b258817e8e4ac1",
+        "id": "e02f5787a56046b6",
         "type": "tabs",
         "children": [
           {
-            "id": "449be591542d6e2b",
+            "id": "cf50127105076692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "Javascript/Code/Promises.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ef0c63c50a98a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mac OS/Mac OS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d094aa7ee6d5a911",
+            "id": "44b1d7ba3fdc50af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Knowledge Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "644daae68c470d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__templates__/Subject.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "__templates__/Subject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "__templates__/Subject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base.md"
+                "file": "__templates__/Subject.md"
               }
             }
           },
@@ -177,17 +177,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d094aa7ee6d5a911",
+  "active": "644daae68c470d41",
   "lastOpenFiles": [
-    "Mac OS/Mac OS.md",
-    "Mac OS/Information/SSH (Mac OS).md",
-    "__templates__/Note.md",
-    "__templates__/Subject.md",
+    "Git/Git.md",
     "Javascript/Javascript.md",
-    "VSCode/VSCode.md",
-    "Typescript/Typescript.md",
     "Linux/Linux.md",
-    "Javascript/Examples/Events.md",
-    "Javascript/Examples/Promises.md"
+    "Mac OS/Mac OS.md",
+    "Typescript/Typescript.md",
+    "VSCode/VSCode.md",
+    "Linux/Gnome/App Grid.md",
+    "Linux/Gnome/Extension Development (Gnome).md",
+    "Linux/Ubuntu/Extensions (Ubuntu).md",
+    "Obsidian/Obsidian.md"
   ]
 }

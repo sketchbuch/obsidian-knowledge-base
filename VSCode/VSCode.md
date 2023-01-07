@@ -1,6 +1,6 @@
 # VSCode
 
-Information collected about VSCode.
+Information collected about [VSCode](https://code.visualstudio.com/), a free programming editor from Microsoft.
 
 ---
 

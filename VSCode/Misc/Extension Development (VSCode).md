@@ -1,6 +1,6 @@
 # Extension Development
 
-Notes of writing VSCode extnsions
+Notes of writing VSCode extensions
 
 ---
 

@@ -2,9 +2,11 @@
 
 Information collected about [Typescript](https://www.typescriptlang.org/).
 
+> TypeScript is _a strongly typed programming language that builds on [[Javascript]]_, giving you better tooling at any scale.
+
 ---
 
-## Information
+## Code
 
 Collected information and code snippets.
 

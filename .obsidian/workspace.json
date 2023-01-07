@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b7524d23d1f0725c",
+        "id": "667412ccd854f552",
         "type": "tabs",
         "children": [
           {
-            "id": "19a87c5607738ef3",
+            "id": "278a61ddeb04bb5c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "0522b1489db6c93b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,17 +157,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "19a87c5607738ef3",
+  "active": "242623e01b420f54",
   "lastOpenFiles": [
+    "Untitled.md",
     "README.md",
+    "__templates__/Subject.md",
+    "__templates__/Note.md",
+    "__templates__/Examples.md",
+    "VSCode/VSCode.md",
     "Linux/Linux.md",
     "Javascript/Cheat sheets.md",
     "Javascript/Javascript.md",
-    "Typescript/Typescript.md",
-    "__templates__/Subject.md",
-    "__templates__/Examples.md",
-    "Typescript/Examples/Example of different optional components being required.md",
-    "Linux/Gnome/Gnome.md",
-    "Javascript/Examples/Promises.md"
+    "Typescript/Typescript.md"
   ]
 }

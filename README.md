@@ -1,6 +1,6 @@
 # Knowledge Base
 
-An information resource created by [Sketchbuch](https://github.com/sketchbuch) to store information collected about web development, operating systems, and technology.
+An information resource to store information collected about web development, operating systems, and technology.
 
 ![Knowledge Base](https://raw.githubusercontent.com/sketchbuch/obsidian-knowledge-base/main/__assets__/images/preview.gif)
 

@@ -9,3 +9,4 @@ Although made in [Markdown](https://www.markdownguide.org/), this is an Obsidian
 - [[Javascript]]
 - [[Linux]]
 - [[Typescript]]
+- [[VSCode]]

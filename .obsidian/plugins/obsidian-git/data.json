@@ -1,6 +1,6 @@
 {
   "commitMessage": "docs(): ",
-  "autoCommitMessage": "docs():",
+  "autoCommitMessage": "chore(backup):",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,

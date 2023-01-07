@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Templates__/KB Note.md",
+                "file": "Typescript/Examples/Conditional Props.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Templates__/KB Note.md",
+                "file": "Typescript/Examples/Conditional Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Templates__/KB Note.md",
+                "file": "Typescript/Examples/Conditional Props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Templates__/KB Note.md"
+                "file": "Typescript/Examples/Conditional Props.md"
               }
             }
+          },
+          {
+            "id": "242623e01b420f54",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,17 +152,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9afad77a7b084929",
+  "active": "242623e01b420f54",
   "lastOpenFiles": [
-    "Linux/Gnome/App Grid.md",
-    "README.md",
-    "__Templates__/KB Note.md",
-    "VSCode/Extension Development.md",
-    "VSCode/Search and Replace.md",
-    "Linux/Ubuntu/Extensions.md",
-    "Linux/Gnome/Extension Development.md",
     "Typescript/Examples/Types from Arrays.md",
     "Typescript/Examples/Tuple as argument in Typescript.md",
-    "Typescript/Examples/Overwrite inherited prop.md"
+    "Typescript/Examples/Overwrite inherited prop.md",
+    "Typescript/Examples/Force a non-nullable value for children.md",
+    "Typescript/Examples/Example of different optional components being required.md",
+    "Typescript/Examples/Conditional Props.md",
+    "__Templates__/KB Note.md",
+    "Linux/Gnome/App Grid.md",
+    "README.md",
+    "VSCode/Extension Development.md"
   ]
 }

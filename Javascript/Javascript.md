@@ -8,10 +8,14 @@ Information collected about [Javascript](https://developer.mozilla.org/en-US/doc
 
 Collected information and code snippets.
 
-1. [[Promises]]
+- [[Promises]]
 
 ## Misc.
 
-1.  [[Cheat sheets]]
+-  [[Cheat sheets]]
+
+## External Sites
+
+- [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 

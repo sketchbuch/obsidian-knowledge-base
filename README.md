@@ -2,7 +2,7 @@
 
 An information resource to store information collected about web development, operating systems, and technology.
 
-![Knowledge Base](https://raw.githubusercontent.com/sketchbuch/obsidian-knowledge-base/main/__assets__/images/preview.gif)
+![Knowledge Base](https://raw.githubusercontent.com/sketchbuch/obsidian-knowledge-base/main/__resources__/images/preview.gif)
 
 ---
 

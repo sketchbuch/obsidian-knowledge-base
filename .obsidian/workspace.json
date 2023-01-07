@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf868df2eae3c79e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "922d202ef988b7c8",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,15 +154,15 @@
   },
   "active": "922d202ef988b7c8",
   "lastOpenFiles": [
-    "Javascript/Javascript.md",
-    "Knowledge Base.md",
-    "Misc./Markdown.md",
     "README.md",
+    "Knowledge Base.md",
+    "Javascript/Misc/Cheat sheets.md",
+    "Javascript/Javascript.md",
+    "Misc./Markdown.md",
     "Git/Git.md",
     "Git/Code/Git Config.md",
     "Obsidian/Obsidian.md",
     "Linux/Linux.md",
-    "Mac OS/Mac OS.md",
-    "Typescript/Typescript.md"
+    "Mac OS/Mac OS.md"
   ]
 }

@@ -1,5 +1,11 @@
 # Knowledge Base
 
-My own dev Obsidian Vault Knowledge Base. An experiment to see if I want to store notes in Obsidian.
+An information resource created by [Sketchbuch](https://github.com/sketchbuch) to store information collected about web development, operating systems, and technology
 
-Currently I'm using Google Notes but it is getting hard to manage now.
+Although made in [Markdown](https://www.markdownguide.org/), this is an Obsidian Vault and is best viewed with [Obsidian](https://obsidian.md/).
+
+---
+
+- [[Javascript]]
+- [[Linux]]
+- [[Typescript]]

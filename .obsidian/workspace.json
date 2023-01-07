@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae5d80c03e6cb65c",
+        "id": "2b44de51816e769b",
         "type": "tabs",
         "children": [
           {
-            "id": "299e5bac9984ef99",
+            "id": "6d0aaaf81800eb33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Examples/Conditional Props.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Examples/Conditional Props.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/Examples/Conditional Props.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/Examples/Conditional Props.md"
+                "file": "README.md"
               }
             }
           },
@@ -147,22 +147,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "templates:Insert template": false
     }
   },
   "active": "242623e01b420f54",
   "lastOpenFiles": [
-    "Typescript/Examples/Types from Arrays.md",
-    "Typescript/Examples/Tuple as argument in Typescript.md",
-    "Typescript/Examples/Overwrite inherited prop.md",
-    "Typescript/Examples/Force a non-nullable value for children.md",
+    "Typescript/Typescript.md",
+    "Javascript/Javascript.md",
+    "__templates__/Subject.md",
+    "Linux/Linux.md",
+    "__templates__/Examples.md",
     "Typescript/Examples/Example of different optional components being required.md",
-    "Typescript/Examples/Conditional Props.md",
-    "__Templates__/KB Note.md",
-    "Linux/Gnome/App Grid.md",
-    "README.md",
-    "VSCode/Extension Development.md"
+    "Linux/Gnome/Gnome.md",
+    "Javascript/Examples/Promises.md",
+    "Javascript/Examples/Examples (Javascript).md",
+    "Linux/Gnome/Extension Development (Gnome).md"
   ]
 }

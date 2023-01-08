@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "monospaceFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "Noto Sans",
+  "textFontFamily": "Noto Sans"
 }

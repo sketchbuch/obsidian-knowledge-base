@@ -1,6 +1,6 @@
 # Promises
 
-Infromation about promises in Javascript.
+Information about promises in Javascript.
 
 ---
 

@@ -1,6 +1,6 @@
 # Force a non-nullable value for children
 
-How to make sure a property is non-nullable in an interface, like React childen for example
+How to make sure a property is non-nullable in an interface, like React children for example
 
 ---
 

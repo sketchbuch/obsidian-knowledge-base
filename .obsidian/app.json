@@ -1,5 +1,10 @@
 {
   "showFrontmatter": false,
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "livePreview": true
 }

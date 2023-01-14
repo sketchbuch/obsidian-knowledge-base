@@ -4,59 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "509ea37ef60d43c8",
+        "id": "104a9e07644e9939",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5db02dfb526879",
+            "id": "4cfdbf263bfcc2ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/Misc/Links (A11y).md",
+                "file": "Accessibility/Accessibility.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "47d78c88912ba50e",
+            "id": "29ac979e8c1fccde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/WCAG/WCAG.md",
+                "file": "Accessibility/Accessibility.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "8391369fc9df775e",
+            "id": "0dbe50022cf5e611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/Code/Screen Reader Text.md",
+                "file": "Accessibility/HTML/Checkboxes & Radios.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2e3f27fb78583eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accessibility/Aria/Aria Label.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "48a197577fd584c7",
+            "id": "75831588fe7266a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/WCAG/WCAG.md",
+                "file": "Accessibility/Misc/EAA.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6608e3ddd72821ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accessibility/Accessibility.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accessibility/WCAG/WCAG.md",
+                "file": "Accessibility/Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accessibility/WCAG/WCAG.md",
+                "file": "Accessibility/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accessibility/WCAG/WCAG.md"
+                "file": "Accessibility/Accessibility.md"
               }
             }
           },
@@ -189,17 +213,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "48a197577fd584c7",
+  "active": "6608e3ddd72821ac",
   "lastOpenFiles": [
-    "Accessibility/Misc/ADA.md",
-    "Accessibility/Accessibility.md",
-    "Accessibility/Misc/Links (A11y).md",
-    "Accessibility/Misc/Overlay Sidebars.md",
+    "Accessibility/HTML/Disabled Attribute.md",
+    "Accessibility/HTML/Alt Attribute.md",
     "Accessibility/Code/Screen Reader Text.md",
-    "Accessibility/WCAG/WCAG.md",
-    "Mac OS/Mac OS.md",
-    "Accessibility/Screen Readers/Voice Over.md",
-    "Accessibility/Screen Readers/Orca.md",
-    "Accessibility/Misc/Images.md"
+    "Accessibility/Code/Accessible Cards.md",
+    "Accessibility/HTML/Checkboxes & Radios.md",
+    "Accessibility/HTML/Images.md",
+    "Accessibility/HTML/Labels.md",
+    "Accessibility/Misc/EAA.md",
+    "Accessibility/Accessibility.md",
+    "Accessibility/Misc/ADA.md"
   ]
 }

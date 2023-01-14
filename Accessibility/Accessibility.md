@@ -8,20 +8,26 @@ Information collected about Accessibility.
 
 -  [[Aria Label]]
 
-## Attributes
-
-- [[Alt]]
-
 ## Code
 
 - [[Accessible Cards]]
 - [[Screen Reader Text]]
 
+## HTML
+
+- [[Alt Attribute]]
+- [[Checkboxes & Radios]]
+- [[Disabled Attribute]]
+- [[Images]]
+- [[Labels]]
+
 ## Misc
 
 - [[ADA]]
-- [[Images]]
+- [[EAA]]
 - [[Links (A11y)]]
+- [[Overlay Sidebars]]
+- [[W3C]]
 
 ## Screen Readers
 

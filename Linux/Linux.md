@@ -6,7 +6,7 @@ Information collected about Linux.
 
 ## Apps
 
-- [[Ansible]]
+- [[Software/Apps/Ansible]]
 - [[FFmpeg]]
 
 ## Gnome
@@ -19,5 +19,3 @@ Information collected about Linux.
 ## Ubuntu
 
 [Ubuntu](https://ubuntu.com/) (meaning Humanity) is a desktop environment for linux created by [Canonical](https://canonical.com/).
-
--  [[Extensions (Ubuntu)]]

@@ -1,6 +1,6 @@
 # {{title}}
 
-{{description}}
+Information about {{title}}.
 
 ---
 

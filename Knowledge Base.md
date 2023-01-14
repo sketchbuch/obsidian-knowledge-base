@@ -4,6 +4,7 @@ An information resource to store information collected about web development, op
 
 ---
 
+- [[Accessibility]]
 - [[Git]]
 - [[Javascript]]
 - [[Linux]]
@@ -11,5 +12,6 @@ An information resource to store information collected about web development, op
 - Misc
 	- [[Markdown]]
 - [[Obsidian]]
+- [[Software]]
 - [[Typescript]]
 - [[VSCode]]

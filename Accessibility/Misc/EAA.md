@@ -1,6 +1,6 @@
 # EAA
 
-Information about European Accessibility Act [EAA](https://ec.europa.eu/social/main.jsp?catId=1202&intPageId=5581&langId=en).
+Information about the [European Accessibility Act](https://ec.europa.eu/social/main.jsp?catId=1202&intPageId=5581&langId=en) (EAA).
 
 ---
 

@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "104a9e07644e9939",
+        "id": "51f93bc1698ad084",
         "type": "tabs",
         "children": [
           {
-            "id": "4cfdbf263bfcc2ab",
+            "id": "4cb1388e8675275a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/Accessibility.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29ac979e8c1fccde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessibility/Accessibility.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0dbe50022cf5e611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessibility/HTML/Checkboxes & Radios.md",
+                "file": "Accessibility/Misc/Resources (A11y).md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "2e3f27fb78583eb4",
+            "id": "866abfdcb0eeca18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/Aria/Aria Label.md",
+                "file": "Accessibility/WCAG/WCAG.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "75831588fe7266a0",
+            "id": "2278e032237caa9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/Misc/EAA.md",
+                "file": "Accessibility/Aria/Aria.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "03a99361b65f982c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accessibility/Misc/Impact Assessment.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "6608e3ddd72821ac",
+            "id": "ea88ff11a0ccfffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accessibility/Accessibility.md",
+                "file": "Accessibility/Misc/Impact Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accessibility/Accessibility.md",
+                "file": "Accessibility/Misc/Impact Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accessibility/Accessibility.md"
+                "file": "Accessibility/Misc/Impact Assessment.md"
               }
             }
           },
@@ -213,17 +201,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6608e3ddd72821ac",
+  "active": "03a99361b65f982c",
   "lastOpenFiles": [
-    "Accessibility/HTML/Disabled Attribute.md",
-    "Accessibility/HTML/Alt Attribute.md",
-    "Accessibility/Code/Screen Reader Text.md",
-    "Accessibility/Code/Accessible Cards.md",
-    "Accessibility/HTML/Checkboxes & Radios.md",
-    "Accessibility/HTML/Images.md",
-    "Accessibility/HTML/Labels.md",
+    "Accessibility/Aria/Aria.md",
+    "Accessibility/Aria/Aria Label.md",
+    "Accessibility/Misc/W3C.md",
+    "Accessibility/Misc/ADA.md",
     "Accessibility/Misc/EAA.md",
-    "Accessibility/Accessibility.md",
-    "Accessibility/Misc/ADA.md"
+    "Accessibility/Misc/Testing (A11y).md",
+    "Accessibility/Misc/Resources (A11y).md",
+    "Accessibility/Misc/Overlay Sidebars.md",
+    "Accessibility/WCAG/WCAG.md",
+    "Accessibility/HTML/Disabled Attribute.md"
   ]
 }

@@ -20,13 +20,14 @@ Information collected about Accessibility.
 - [[Disabled Attribute]]
 - [[Images]]
 - [[Labels]]
+- [[Links (A11y)]]
 
 ## Misc
 
 - [[ADA]]
 - [[EAA]]
-- [[Links (A11y)]]
 - [[Overlay Sidebars]]
+- [[Resources (A11y)]]
 - [[W3C]]
 
 ## Screen Readers

@@ -1,6 +1,6 @@
 # W3C
 
-Accessibility Information from the W3C.
+Accessibility Information from the [World Wide Web Consortium](https://www.w3.org/) (W3C), the organisation behind internet standards.
 
 ---
 

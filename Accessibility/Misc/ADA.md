@@ -4,6 +4,10 @@ Information about the [Americans with Disabilities Act](https://www.ada.gov/) (A
 
 ---
 
+## Compliance
+
+- [ADA Web Accessibility Standards & Requirements 2023](https://www.accessibility.works/blog/2023-wcag-ada-website-compliance-standards-requirements/)
+
 ## Lawsuits
 
 Information about lawsuits, and patterns in filings.

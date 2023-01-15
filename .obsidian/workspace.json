@@ -4,59 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "51f93bc1698ad084",
+        "id": "f7bf2c979cb21250",
         "type": "tabs",
         "children": [
           {
-            "id": "4cb1388e8675275a",
+            "id": "36780fde47e8069c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/Misc/Resources (A11y).md",
+                "file": "Accessibility/HTML/Disabled Attribute.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "866abfdcb0eeca18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessibility/WCAG/WCAG.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2278e032237caa9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessibility/Aria/Aria.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "03a99361b65f982c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessibility/Misc/Impact Assessment.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ea88ff11a0ccfffa",
+            "id": "8cf40608f4144e0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8e4daa167919ba69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accessibility/Misc/Testing (A11y).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accessibility/Misc/Impact Assessment.md",
+                "file": "Accessibility/Misc/Testing (A11y).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accessibility/Misc/Impact Assessment.md",
+                "file": "Accessibility/Misc/Testing (A11y).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accessibility/Misc/Impact Assessment.md"
+                "file": "Accessibility/Misc/Testing (A11y).md"
               }
             }
           },
@@ -201,17 +177,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "03a99361b65f982c",
+  "active": "8e4daa167919ba69",
   "lastOpenFiles": [
-    "Accessibility/Aria/Aria.md",
-    "Accessibility/Aria/Aria Label.md",
-    "Accessibility/Misc/W3C.md",
-    "Accessibility/Misc/ADA.md",
-    "Accessibility/Misc/EAA.md",
-    "Accessibility/Misc/Testing (A11y).md",
+    "Accessibility/Misc/Education.md",
+    "Accessibility/Accessibility.md",
+    "Accessibility/WCAG/POUR.md",
+    "Accessibility/HTML/Disabled Attribute.md",
+    "Accessibility/HTML/Images.md",
+    "Accessibility/HTML/Labels.md",
     "Accessibility/Misc/Resources (A11y).md",
-    "Accessibility/Misc/Overlay Sidebars.md",
-    "Accessibility/WCAG/WCAG.md",
-    "Accessibility/HTML/Disabled Attribute.md"
+    "Accessibility/Misc/Testing (A11y).md",
+    "Accessibility/WCAG/Compliance levels.md",
+    "Accessibility/Misc/WAD.md"
   ]
 }

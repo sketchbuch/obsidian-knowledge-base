@@ -4,6 +4,10 @@ Information about a11y testing.
 
 ---
 
+## Checklists
+
+- [Check Your WCAG Compliance](https://www.a11yproject.com/checklist/)
+
 ## Why automated testing is not enough
 
 - [Automated Accessibility Testing Tools: How Much Do Scans Catch?](https://www.levelaccess.com/blog/automated-accessibility-testing-tools-how-much-do-scans-catch)

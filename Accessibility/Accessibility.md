@@ -27,6 +27,7 @@ Information collected about Accessibility.
 
 - [[ADA]]
 - [[EAA]]
+- [[Education]]
 - [[Impact Assessment]]
 - [[Overlay Sidebars]]
 - [[Resources (A11y)]]

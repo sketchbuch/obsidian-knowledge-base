@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/Misc/Testing (A11y).md",
-                "mode": "preview",
+                "file": "Accessibility/Accessibility.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accessibility/Misc/Testing (A11y).md",
+                "file": "Accessibility/Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accessibility/Misc/Testing (A11y).md",
+                "file": "Accessibility/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accessibility/Misc/Testing (A11y).md"
+                "file": "Accessibility/Accessibility.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "8e4daa167919ba69",
   "lastOpenFiles": [
+    "Accessibility/Misc/Testing (A11y).md",
     "Accessibility/Misc/Education.md",
     "Accessibility/Accessibility.md",
     "Accessibility/WCAG/POUR.md",
@@ -186,7 +187,6 @@
     "Accessibility/HTML/Images.md",
     "Accessibility/HTML/Labels.md",
     "Accessibility/Misc/Resources (A11y).md",
-    "Accessibility/Misc/Testing (A11y).md",
     "Accessibility/WCAG/Compliance levels.md",
     "Accessibility/Misc/WAD.md"
   ]

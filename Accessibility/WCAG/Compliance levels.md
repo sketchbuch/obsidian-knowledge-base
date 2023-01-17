@@ -24,7 +24,7 @@ This is the minimum level of compliance, and the easiest level to achieve, but i
 
 ## AA
 
-This is the level of compliance required for most accessibility laws including [[ADA]] and the EU [[WAD]]. The EAA does not have a specified compliance level but it is safe to assume that AA is required.
+This is the level of compliance required for most accessibility laws including [[ADA]] and the EU [[WAD]]. The [[EAA]] does not have a specified compliance level but it is safe to assume that AA is required.
 
 ## AAA
 

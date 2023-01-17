@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f7bf2c979cb21250",
+        "id": "9da40b9279fa419a",
         "type": "tabs",
         "children": [
           {
-            "id": "36780fde47e8069c",
+            "id": "dc112783c516824b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessibility/HTML/Disabled Attribute.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8cf40608f4144e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessibility/Accessibility.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8e4daa167919ba69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessibility/Accessibility.md",
+                "file": "Knowledge Base.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accessibility/Accessibility.md",
+                "file": "Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accessibility/Accessibility.md",
+                "file": "Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accessibility/Accessibility.md"
+                "file": "Knowledge Base.md"
               }
             }
           },
@@ -177,17 +152,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8e4daa167919ba69",
+  "active": "dc112783c516824b",
   "lastOpenFiles": [
-    "Accessibility/Misc/Testing (A11y).md",
-    "Accessibility/Misc/Education.md",
-    "Accessibility/Accessibility.md",
-    "Accessibility/WCAG/POUR.md",
-    "Accessibility/HTML/Disabled Attribute.md",
-    "Accessibility/HTML/Images.md",
-    "Accessibility/HTML/Labels.md",
+    "Knowledge Base.md",
     "Accessibility/Misc/Resources (A11y).md",
+    "Accessibility/Misc/Testing (A11y).md",
+    "Accessibility/WCAG/WCAG.md",
+    "Accessibility/WCAG/POUR.md",
     "Accessibility/WCAG/Compliance levels.md",
-    "Accessibility/Misc/WAD.md"
+    "Accessibility/Misc/EAA.md",
+    "Accessibility/Accessibility.md",
+    "Accessibility/Misc/ADA.md",
+    "Accessibility/Misc/Education.md"
   ]
 }

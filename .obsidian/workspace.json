@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9da40b9279fa419a",
+        "id": "ea08cde85731e940",
         "type": "tabs",
         "children": [
           {
-            "id": "dc112783c516824b",
+            "id": "500ddcf7c461f671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Obsidian/Obsidian.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Obsidian/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Obsidian/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base.md"
+                "file": "Obsidian/Obsidian.md"
               }
             }
           },
@@ -152,8 +152,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dc112783c516824b",
+  "active": "500ddcf7c461f671",
   "lastOpenFiles": [
+    "Accessibility/Aria/Aria.md",
     "Knowledge Base.md",
     "Accessibility/Misc/Resources (A11y).md",
     "Accessibility/Misc/Testing (A11y).md",
@@ -162,7 +163,6 @@
     "Accessibility/WCAG/Compliance levels.md",
     "Accessibility/Misc/EAA.md",
     "Accessibility/Accessibility.md",
-    "Accessibility/Misc/ADA.md",
-    "Accessibility/Misc/Education.md"
+    "Accessibility/Misc/ADA.md"
   ]
 }

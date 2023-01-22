@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "homepage"
+  "homepage",
+  "hot-reload",
+  "obsidian-google-drive"
 ]

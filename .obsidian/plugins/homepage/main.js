@@ -1534,7 +1534,7 @@ var createPopper = /* @__PURE__ */ popperGenerator({
 
 // src/utils.ts
 function trimFile(file) {
-  return file.path.slice(0, -3);
+  return file.extension == "md" ? file.path.slice(0, -3) : file.path;
 }
 function untrimName(name) {
   return name.endsWith(".canvas") ? name : `${name}.md`;
@@ -1829,7 +1829,7 @@ var FileSuggest = class extends TextInputSuggest {
     }
   }
   selectSuggestion(file) {
-    this.inputEl.value = file.extension == "md" ? trimFile(file) : file.path;
+    this.inputEl.value = trimFile(file);
     this.inputEl.trigger("input");
     this.close();
   }
@@ -1969,13 +1969,16 @@ var Homepage = class extends import_obsidian3.Plugin {
         return;
       }
       if (mode != Mode.ReplaceAll) {
-        const alreadyOpened = this.getOpenedHomepage();
-        if (alreadyOpened !== void 0) {
-          this.app.workspace.setActiveLeaf(alreadyOpened);
+        const alreadyOpened = this.getOpenedHomepages();
+        if (alreadyOpened.length > 0) {
+          this.app.workspace.setActiveLeaf(alreadyOpened[0]);
           yield this.configureHomepage();
           return;
         }
       } else {
+        if (this.settings.pin) {
+          this.getOpenedHomepages().forEach((h) => h.setPinned(false));
+        }
         LEAF_TYPES.forEach((i) => this.app.workspace.detachLeavesOfType(i));
       }
       yield openLink(mode);
@@ -1992,17 +1995,20 @@ var Homepage = class extends import_obsidian3.Plugin {
     }
     return homepage;
   }
-  getOpenedHomepage() {
+  getOpenedHomepages() {
     let leaves = LEAF_TYPES.flatMap((i) => this.app.workspace.getLeavesOfType(i));
-    return leaves.find((leaf) => trimFile(leaf.view.file) == this.homepage);
+    return leaves.filter((leaf) => trimFile(leaf.view.file) == this.homepage);
   }
   configureHomepage() {
     return __async(this, null, function* () {
       var _a;
       this.executing = false;
       const view = this.app.workspace.getActiveViewOfType(import_obsidian3.MarkdownView);
-      if (!view)
+      if (!view) {
+        if (this.settings.pin)
+          this.app.workspace.activeLeaf.setPinned(true);
         return;
+      }
       const state = view.getState();
       if (this.settings.revertView) {
         this.lastView = new WeakRef(view);

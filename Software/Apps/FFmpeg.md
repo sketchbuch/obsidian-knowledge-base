@@ -1,6 +1,6 @@
 # FFmpeg
 
-A [cross-platform solution](https://ffmpeg.org/) to record, convert audio and video.
+A [cross-platform solution](https://ffmpeg.org/) to record/convert audio and video.
 
 ---
 

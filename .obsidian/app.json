@@ -6,5 +6,6 @@
   "spellcheckLanguages": [
     "en-GB"
   ],
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "Dart/Information"
 }

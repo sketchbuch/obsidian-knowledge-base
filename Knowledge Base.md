@@ -9,9 +9,7 @@ An information resource to store information collected about web development, op
 - [[Javascript]]
 - [[Linux]]
 - [[Mac OS]]
-- Misc
-	- [[Markdown]]
-- [[Obsidian]]
+- [[Misc.]]
 - [[Software]]
 - [[Typescript]]
 - [[VSCode]]

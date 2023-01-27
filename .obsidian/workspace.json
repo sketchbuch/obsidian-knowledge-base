@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea08cde85731e940",
+        "id": "0951da6a0a21e264",
         "type": "tabs",
         "children": [
           {
-            "id": "500ddcf7c461f671",
+            "id": "4ae20d8d0195b455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian.md",
-                "mode": "source",
+                "file": "Knowledge Base.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian.md",
+                "file": "Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian.md",
+                "file": "Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Obsidian.md"
+                "file": "Knowledge Base.md"
               }
             }
           },
@@ -152,17 +152,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "500ddcf7c461f671",
+  "active": "4ae20d8d0195b455",
   "lastOpenFiles": [
-    "Accessibility/Aria/Aria.md",
-    "Knowledge Base.md",
-    "Accessibility/Misc/Resources (A11y).md",
-    "Accessibility/Misc/Testing (A11y).md",
-    "Accessibility/WCAG/WCAG.md",
-    "Accessibility/WCAG/POUR.md",
     "Accessibility/WCAG/Compliance levels.md",
-    "Accessibility/Misc/EAA.md",
     "Accessibility/Accessibility.md",
-    "Accessibility/Misc/ADA.md"
+    "Knowledge Base.md",
+    "Software/VSCode/VSCode.md",
+    "Software/Software.md",
+    "Typescript/Typescript.md",
+    "Misc./Misc..md",
+    "Misc.md",
+    "Accessibility/Misc/Education.md",
+    "Accessibility/Misc/Impact Assessment.md"
   ]
 }

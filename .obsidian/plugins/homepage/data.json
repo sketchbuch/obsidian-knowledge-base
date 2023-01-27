@@ -8,7 +8,7 @@
   "hasRibbonIcon": true,
   "openMode": "Replace all open notes",
   "manualOpenMode": "Keep open notes",
-  "view": "Default view",
+  "view": "Reading view",
   "revertView": true,
   "refreshDataview": false,
   "autoCreate": true,

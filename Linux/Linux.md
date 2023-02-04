@@ -4,10 +4,6 @@ Information collected about Linux.
 
 ---
 
-## Apps
-
-- [[Bash]]
-
 ## Gnome
 
 [Gnome](https://www.gnome.org/) (GNU Network Object Model Environment) is a desktop environment for linux.

@@ -21,3 +21,5 @@ Categories=Utility;
 ```
 
 [Source](https://www.how2shout.com/linux/how-to-create-desktop-shortcut-for-an-appimage/)
+
+Name the desktop file the same as the *running* app name to be able to add it to the dash as a favourite app.

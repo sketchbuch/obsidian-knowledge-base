@@ -8,6 +8,7 @@ An information resource to store information collected about web development, op
 - [[Dart]]
 - [[Flutter]]
 - [[Git]]
+- [[Google]]
 - [[Javascript]]
 - [[Linux]]
 - [[Mac OS]]

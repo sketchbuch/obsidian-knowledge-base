@@ -12,7 +12,7 @@ The dictionary that obsidian uses can be found at the following locations:
 - Mac: `~/Library/Application Support/obsidian/Custom Dictionary.txt`
 - Linux: `~/.var/app/md.obsidian.Obsidian/config/obsidian`
 
-[Source](https://forum.obsidian.md/t/where-is-the-user-spell-check-dictionary-file-located/35714/4)
+[SOURCE](https://forum.obsidian.md/t/where-is-the-user-spell-check-dictionary-file-located/35714/4)
 
 ## Links
 

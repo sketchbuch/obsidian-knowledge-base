@@ -8,4 +8,6 @@ Information collected about various software and apps.
 
 - [[Ansible]]
 - [[FFmpeg]]
+- [[NordVPN]]
 - [[Obsidian]]
+- [[uBlock Origin]]

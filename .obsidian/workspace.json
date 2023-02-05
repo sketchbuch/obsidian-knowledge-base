@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e63acd2002d73043",
+        "id": "e28e934cb11c5214",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f6103d1b8dda50",
+            "id": "036f63acb1f4c6d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Knowledge Base.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "521a087e534ca739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google/Products/Google Photos.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bacff946c1ba8f0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Apps/Docker.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a6090f2940bc9703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0ca2ff30850e8d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Apps/NordVPN.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "links",
-                "matchingCase": false,
+                "query": "[SOURCE]",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Apps/Docker.md",
+                "file": "Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Apps/Docker.md",
+                "file": "Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Apps/Docker.md"
+                "file": "Knowledge Base.md"
               }
             }
           },
@@ -201,17 +152,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "242623e01b420f54",
+  "active": "036f63acb1f4c6d9",
   "lastOpenFiles": [
-    "Google/Products/Google Photos.md",
     "Knowledge Base.md",
-    "Software/Apps/NordVPN.md",
-    "Gnome.md",
-    "Linux/Linux.md",
-    "Linux/Apps/Bash.md",
-    "Linux/Gnome/Desktop Launchers.md",
-    "Software/Apps/uBlock Origin.md",
+    "React/React.md",
+    "GraphQL/GraphQL.md",
+    "Accessibility/WCAG/Compliance levels.md",
+    "Accessibility/Misc/EAA.md",
+    "Accessibility/HTML/Disabled Attribute.md",
     "Software/Apps/Obsidian.md",
-    "Software/Software.md"
+    "Software/Apps/FFmpeg.md",
+    "VSCode/VSCode.md",
+    "VSCode/Misc/Search and Replace.md"
   ]
 }

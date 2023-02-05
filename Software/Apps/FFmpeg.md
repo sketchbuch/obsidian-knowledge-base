@@ -18,7 +18,7 @@ find -name "*.m4a" -exec ffmpeg -i {} -acodec libmp3lame -ab 128k {}.mp4 \;
 ffmpeg -i video.mov -vcodec h264 -acodec mp2 video.mp4
 ```
 
-[SOURCE](https://mrcoles.com/convert-mov-mp4-ffmpeg/)
+[Source](https://mrcoles.com/convert-mov-mp4-ffmpeg/)
 
 ## webm > mp4
 

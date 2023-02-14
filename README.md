@@ -1,8 +1,8 @@
-# A11y Knowledge Base
+# Knowledge Base
 
-An information resource to store information collected about web accessibility.
+An information resource to store information collected about web development, operating systems, and technology.
 
-![A11y Knowledge Base](https://raw.githubusercontent.com/sketchbuch/obsidian-a11y-kb/main/__resources__/images/preview.gif)
+![Knowledge Base](https://raw.githubusercontent.com/sketchbuch/obsidian-knowledge-base/main/__resources__/images/preview.gif)
 
 ---
 

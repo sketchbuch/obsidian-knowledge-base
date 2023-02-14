@@ -1,6 +1,6 @@
-# A11y Knowledge Base
+# Accessibility
 
-An information resource to store information collected about web development, operating systems, and technology.
+Information collected about Accessibility.
 
 ---
 

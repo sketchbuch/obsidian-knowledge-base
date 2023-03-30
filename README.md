@@ -6,7 +6,7 @@ An information resource to store information collected about web development, op
 
 ---
 
-Although made in [Markdown](https://www.markdownguide.org/), this is an Obsidian Vault and is best viewed with [Obsidian](https://obsidian.md/) as MediaWiki style links are used throughout which are not recognised by Github as it is non-standard markdown.
+Although made in [Markdown](https://www.markdownguide.org/), this is an Obsidian Vault and is best viewed with [Obsidian](https://obsidian.md/) as MediaWiki style links are used throughout which are not recognised by GitHub as it is non-standard markdown.
 
 ## Obsidian Settings
 

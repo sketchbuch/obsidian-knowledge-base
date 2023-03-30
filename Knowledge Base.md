@@ -4,7 +4,6 @@ An information resource to store information collected about web development, op
 
 ---
 
-- [[Accessibility]]
 - [[Dart]]
 - [[Flutter]]
 - [[Git]]

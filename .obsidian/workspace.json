@@ -4,22 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7658ba3bc9da7be8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8a3e6155e5d37db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+        "id": "1efe3670fff13926",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/Gnome/Extension Development (Gnome).md",
+            "mode": "source",
+            "source": true
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Linux/Gnome/Extension Development (Gnome).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Linux/Gnome/Extension Development (Gnome).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base.md"
+                "file": "Linux/Gnome/Extension Development (Gnome).md"
               }
             }
           },
@@ -152,10 +146,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8a3e6155e5d37db3",
+  "active": "1efe3670fff13926",
   "lastOpenFiles": [
-    "README.md",
+    "Linux/Linux.md",
+    "Linux/Gnome/App Grid.md",
+    "Linux/Gnome/Desktop Launchers.md",
+    "Linux/Gnome/Extension Development (Gnome).md",
     "Knowledge Base.md",
+    "README.md",
     "VSCode/VSCode.md",
     "VSCode/Settings.md",
     "VSCode/Misc/Search and Replace.md",

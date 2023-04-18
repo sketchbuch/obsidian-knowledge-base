@@ -22,7 +22,7 @@ IdentityFile ~/.ssh/name of key
 ## Delete a key
 
 ```bash
-ssh-add -d <keyfile>p9uu
+ssh-add -d <keyfile>
 ```
 
 ## Fix Permissions

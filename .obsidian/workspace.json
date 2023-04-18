@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1efe3670fff13926",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linux/Gnome/Extension Development (Gnome).md",
-            "mode": "source",
-            "source": true
+        "id": "88510d81900ca4f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f49110abd2516dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mac OS/Code/SSH (Mac OS).md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Gnome/Extension Development (Gnome).md",
+                "file": "Mac OS/Code/SSH (Mac OS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Gnome/Extension Development (Gnome).md",
+                "file": "Mac OS/Code/SSH (Mac OS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Gnome/Extension Development (Gnome).md"
+                "file": "Mac OS/Code/SSH (Mac OS).md"
               }
             }
           },
@@ -146,13 +152,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1efe3670fff13926",
+  "active": "7f49110abd2516dd",
   "lastOpenFiles": [
+    "Mac OS/Mac OS.md",
+    "Mac OS/Code/SSH (Mac OS).md",
+    "Knowledge Base.md",
     "Linux/Linux.md",
     "Linux/Gnome/App Grid.md",
     "Linux/Gnome/Desktop Launchers.md",
     "Linux/Gnome/Extension Development (Gnome).md",
-    "Knowledge Base.md",
     "README.md",
     "VSCode/VSCode.md",
     "VSCode/Settings.md",

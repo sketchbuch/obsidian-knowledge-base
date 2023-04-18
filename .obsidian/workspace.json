@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mac OS/Code/SSH (Mac OS).md",
-                "mode": "source",
+                "file": "Typescript/Typescript.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mac OS/Code/SSH (Mac OS).md",
+                "file": "Typescript/Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mac OS/Code/SSH (Mac OS).md",
+                "file": "Typescript/Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mac OS/Code/SSH (Mac OS).md"
+                "file": "Typescript/Typescript.md"
               }
             }
           },
@@ -154,24 +154,31 @@
   },
   "active": "7f49110abd2516dd",
   "lastOpenFiles": [
-    "Mac OS/Mac OS.md",
-    "Mac OS/Code/SSH (Mac OS).md",
-    "Knowledge Base.md",
+    "Typescript/Misc/Benefits of Typescript.md",
+    "Typescript/Typescript.md",
+    "Typescript/Code/Overwrite inherited prop.md",
+    "Typescript/Code/Example of different optional components being required.md",
+    "Typescript/Code/Conditional Props.md",
+    "React/React.md",
+    "Misc./Misc..md",
+    "Misc./Markdown.md",
+    "Media/Media.md",
     "Linux/Linux.md",
-    "Linux/Gnome/App Grid.md",
     "Linux/Gnome/Desktop Launchers.md",
+    "Linux/Gnome/App Grid.md",
+    "Javascript/Testing/Sinon Jest.md",
+    "Javascript/Misc/Cheat sheets.md",
+    "Javascript/Code/Promises.md",
+    "Javascript/Code/Events.md",
+    "GraphQL/GraphQL.md",
+    "Google/Google.md",
+    "Google/Products/Google Photos.md",
+    "Mac OS/Code/SSH (Mac OS).md",
+    "Mac OS/Mac OS.md",
+    "Knowledge Base.md",
     "Linux/Gnome/Extension Development (Gnome).md",
     "README.md",
     "VSCode/VSCode.md",
-    "VSCode/Settings.md",
-    "VSCode/Misc/Search and Replace.md",
-    "VSCode/Misc/Extension Development (VSCode).md",
-    "React/React.md",
-    "GraphQL/GraphQL.md",
-    "Accessibility/WCAG/Compliance levels.md",
-    "Accessibility/Misc/EAA.md",
-    "Accessibility/HTML/Disabled Attribute.md",
-    "Software/Apps/Obsidian.md",
-    "Software/Apps/FFmpeg.md"
+    "VSCode/Settings.md"
   ]
 }

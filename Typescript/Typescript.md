@@ -4,6 +4,8 @@ Information collected about [Typescript](https://www.typescriptlang.org/).
 
 > TypeScript is _a strongly typed programming language that builds on [[Javascript]]_, giving you better tooling at any scale.
 
+[TS Playground](https://www.typescriptlang.org/play) can be used to test types/interfaces.
+
 ---
 
 ## Code

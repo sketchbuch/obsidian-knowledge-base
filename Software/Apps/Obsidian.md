@@ -1,6 +1,6 @@
 # Obsidian
 
-Information collected about [Obsidian](https://obsidian.md/), the application this kb is designed to be used in.
+Information collected about [Obsidian](https://obsidian.md/), the application this Knowledge Base is designed to be used in.
 
 ---
 

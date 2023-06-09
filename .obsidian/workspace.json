@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88510d81900ca4f4",
+        "id": "bc16cb3501535ded",
         "type": "tabs",
         "children": [
           {
-            "id": "7f49110abd2516dd",
+            "id": "7ddef69c81d2c056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Typescript.md",
-                "mode": "preview",
+                "file": "Software/Apps/Obsidian.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[SOURCE]",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "870dedda3a114a50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/Typescript.md",
+                "file": "Software/Apps/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/Typescript.md",
+                "file": "Software/Apps/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/Typescript.md"
+                "file": "Software/Apps/Obsidian.md"
               }
             }
           },
@@ -152,8 +160,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7f49110abd2516dd",
+  "active": "242623e01b420f54",
   "lastOpenFiles": [
+    "Linux/Gnome/Window Management.md",
+    "Software/Apps/Obsidian.md",
+    "Linux/Gnome/App Grid.md",
+    "Linux/Gnome/Desktop Launchers.md",
+    "Linux/Gnome/Extension Development (Gnome).md",
+    "Linux/Linux.md",
+    "Javascript/Code/Promises.md",
+    "Javascript/Code/Events.md",
+    "GraphQL/GraphQL.md",
+    "Google/Products/Google Photos.md",
+    "Google/Google.md",
+    "Git/Git.md",
+    "Software/Software.md",
+    "Knowledge Base.md",
+    "Software/Apps/Ansible.md",
     "Typescript/Misc/Benefits of Typescript.md",
     "Typescript/Typescript.md",
     "Typescript/Code/Overwrite inherited prop.md",
@@ -163,22 +186,7 @@
     "Misc./Misc..md",
     "Misc./Markdown.md",
     "Media/Media.md",
-    "Linux/Linux.md",
-    "Linux/Gnome/Desktop Launchers.md",
-    "Linux/Gnome/App Grid.md",
     "Javascript/Testing/Sinon Jest.md",
-    "Javascript/Misc/Cheat sheets.md",
-    "Javascript/Code/Promises.md",
-    "Javascript/Code/Events.md",
-    "GraphQL/GraphQL.md",
-    "Google/Google.md",
-    "Google/Products/Google Photos.md",
-    "Mac OS/Code/SSH (Mac OS).md",
-    "Mac OS/Mac OS.md",
-    "Knowledge Base.md",
-    "Linux/Gnome/Extension Development (Gnome).md",
-    "README.md",
-    "VSCode/VSCode.md",
-    "VSCode/Settings.md"
+    "Javascript/Misc/Cheat sheets.md"
   ]
 }

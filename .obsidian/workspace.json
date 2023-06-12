@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bc16cb3501535ded",
+        "id": "c271fddf9308c574",
         "type": "tabs",
         "children": [
           {
-            "id": "7ddef69c81d2c056",
+            "id": "c255fc88d06d8092",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Software/Apps/Obsidian.md",
-                "staged": false
+                "file": "Knowledge Base.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge Base.md"
+              }
             }
           },
           {
@@ -155,8 +160,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7ddef69c81d2c056",
+  "active": "c255fc88d06d8092",
   "lastOpenFiles": [
+    "Software/Software.md",
+    "Knowledge Base.md",
     "Software/Apps/Obsidian.md",
     "Linux/Gnome/Window Management.md",
     "Linux/Gnome/App Grid.md",
@@ -169,8 +176,6 @@
     "Google/Products/Google Photos.md",
     "Google/Google.md",
     "Git/Git.md",
-    "Software/Software.md",
-    "Knowledge Base.md",
     "Software/Apps/Ansible.md",
     "Typescript/Misc/Benefits of Typescript.md",
     "Typescript/Typescript.md",

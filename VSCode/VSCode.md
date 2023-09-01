@@ -4,6 +4,12 @@ Information collected about [VSCode](https://code.visualstudio.com/), a free pro
 
 ---
 
+## Start without extensions
+
+```bash
+code --disable-extensions
+```
+
 ## Misc.
 
 - [[Extension Development (VSCode)]]

@@ -2,6 +2,8 @@
 
 An information resource to store information collected about web development, operating systems, and technology.
 
+Start reading the [Knowledge Base](Knowledge%20Base.md).
+
 ![Knowledge Base](https://raw.githubusercontent.com/sketchbuch/obsidian-knowledge-base/main/__resources__/images/preview.gif)
 
 ---

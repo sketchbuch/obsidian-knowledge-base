@@ -3,9 +3,7 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "livePreview": false,
   "attachmentFolderPath": "Dart/Information"
 }

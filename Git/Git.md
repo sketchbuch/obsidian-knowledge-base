@@ -8,4 +8,6 @@ Information collected about Git.
 
 Collected information and code snippets.
 
--  [[Git Config]]
+- [[Git Config]]
+- [[Git Ignore]]
+- [[Git Tags]]

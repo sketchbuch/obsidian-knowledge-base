@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c271fddf9308c574",
+        "id": "1386749d5af45548",
         "type": "tabs",
         "children": [
           {
-            "id": "c255fc88d06d8092",
+            "id": "f76eb8d0a36fe440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Git/Code/Git Ignore.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Git/Code/Git Ignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Git/Code/Git Ignore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base.md"
+                "file": "Git/Code/Git Ignore.md"
               }
             }
           },
@@ -160,10 +160,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c255fc88d06d8092",
+  "active": "f76eb8d0a36fe440",
   "lastOpenFiles": [
-    "Software/Software.md",
+    "Git/Git.md",
+    "Git/Code/Git Ignore.md",
     "Knowledge Base.md",
+    "README.md",
+    "Git/Code/Git Tags.md",
+    "Git/Code/Git Config.md",
+    "VSCode/VSCode.md",
+    "Software/Software.md",
     "Software/Apps/Obsidian.md",
     "Linux/Gnome/Window Management.md",
     "Linux/Gnome/App Grid.md",
@@ -175,18 +181,12 @@
     "GraphQL/GraphQL.md",
     "Google/Products/Google Photos.md",
     "Google/Google.md",
-    "Git/Git.md",
     "Software/Apps/Ansible.md",
     "Typescript/Misc/Benefits of Typescript.md",
     "Typescript/Typescript.md",
     "Typescript/Code/Overwrite inherited prop.md",
     "Typescript/Code/Example of different optional components being required.md",
     "Typescript/Code/Conditional Props.md",
-    "React/React.md",
-    "Misc./Misc..md",
-    "Misc./Markdown.md",
-    "Media/Media.md",
-    "Javascript/Testing/Sinon Jest.md",
-    "Javascript/Misc/Cheat sheets.md"
+    "React/React.md"
   ]
 }

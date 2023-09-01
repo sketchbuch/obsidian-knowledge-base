@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1386749d5af45548",
+        "id": "9fe0f83829a90538",
         "type": "tabs",
         "children": [
           {
-            "id": "f76eb8d0a36fe440",
+            "id": "462bdb7bf00fcb57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Code/Git Ignore.md",
+                "file": "Knowledge Base.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Code/Git Ignore.md",
+                "file": "Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Code/Git Ignore.md",
+                "file": "Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Code/Git Ignore.md"
+                "file": "Knowledge Base.md"
               }
             }
           },
@@ -160,7 +160,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f76eb8d0a36fe440",
+  "active": "462bdb7bf00fcb57",
   "lastOpenFiles": [
     "Git/Git.md",
     "Git/Code/Git Ignore.md",
